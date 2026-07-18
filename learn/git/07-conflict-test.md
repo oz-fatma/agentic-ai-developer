@@ -1,2 +1,2 @@
 # Test dosyası
-Orijinal satır.
+Bu satir main'de farkli sekilde degistirildi.
