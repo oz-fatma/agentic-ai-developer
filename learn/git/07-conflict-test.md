@@ -1,2 +1,2 @@
 # Test dosyası
-Bu satır main branch'inde yazildi.
+Bu satır conflict-branch'inde yazildi, farkli bir icerik.
