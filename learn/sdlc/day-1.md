@@ -1,9 +1,8 @@
-# Gün 1: SDLC Nedir?
+# Day 1: What Is SDLC?
 
 ## 1. My Definition (3–5 sentences)
 
 SDLC (Software Development Life Cycle) is a structured process that covers planning, developing, testing, deploying, and maintaining software. Teams break this process into phases so that each step has clear goals and deliverables. This reduces the risk of building the wrong product and helps catch errors early. After software goes live, the cycle continues with maintenance and improvements.
-
 
 ## 2. Core Phases
 
@@ -16,16 +15,16 @@ SDLC (Software Development Life Cycle) is a structured process that covers plann
 | Deployment | Software is released to production; users can access it |
 | Maintenance | Bug fixes, updates, and new features after launch |
 
-## 3. Tanıdık Bir Uygulama
+## 3. Familiar App
 
-**Uygulama:** Instagram
+**App:** Instagram
 
-**Son değişiklik:** Reels'e yeni müzik ve filtre seçenekleri eklendi.
+**Recent change:** New music and filter options were added to Reels.
 
-**Hangi faz:** Maintenance — uygulama zaten canlıdayken yeni özellik eklendi veya güncellendi.
+**Which phase:** Maintenance — a new feature was added or updated while the app was already live.
 
-## 4. Bir Faz Atlanırsa — 3 Risk
+## 4. If a Phase Is Skipped — 3 Risks
 
-1. **Requirements atlanırsa** → Yanlış ürün yapılır; kullanıcı istemediği bir şey geliştirilir.
-2. **Testing atlanırsa** → Hatalar canlıya çıkar; kullanıcılar bozuk yazılım görür.
-3. **Design atlanırsa** → Kod karmaşık ve sürdürülemez olur; ekip aynı hedefe gidemez.
+1. **If Requirements is skipped** → The wrong product gets built; users get something they did not want.
+2. **If Testing is skipped** → Bugs reach production; users see broken software.
+3. **If Design is skipped** → Code becomes complex and hard to maintain; the team loses a shared direction.
