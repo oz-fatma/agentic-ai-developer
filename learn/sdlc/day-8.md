@@ -1,4 +1,4 @@
-# Gün 8: Requirements & Design — Practice Project & Review
+# Day 8: Requirements & Design — Practice Project & Review
 
 **Product:** Study Buddy — MVP one-pager spec
 
@@ -33,7 +33,7 @@ Students struggle to know if they study enough each week. They need a simple way
 - **Time:** MVP in ~6 weeks
 - **Team:** 2 devs, 1 designer
 - **Tech:** Mobile app + monolith API + PostgreSQL
-- **Legal:** KVKK/GDPR — minimal PII, clear privacy policy
+- **Legal:** GDPR and applicable local privacy laws — minimal PII, clear privacy policy
 - **Out of scope for MVP:** friend sharing, push reminders, calendar sync
 
 ---
@@ -113,4 +113,4 @@ Student → Study Buddy App → API → PostgreSQL
 | 7 | Context, components, data, trade-offs |
 | 8 | Mini spec + review + ready-to-build |
 
-**Faz 2 tamamlandı.**
+**Phase 2 complete.**

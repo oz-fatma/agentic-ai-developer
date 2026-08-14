@@ -1,4 +1,4 @@
-# Gün 3: Waterfall, Agile ve Iterative Modeller
+# Day 3: Waterfall, Agile, and Iterative Models
 
 ## 1. Waterfall Sketch
 

@@ -1,4 +1,4 @@
-# Gün 7: Requirements & Design — High-Level Design and Architecture Sketch
+# Day 7: Requirements & Design — High-Level Design and Architecture Sketch
 
 **Product:** Study Buddy (MVP scope: log sessions, weekly goal, home progress)
 

@@ -1,4 +1,4 @@
-# Gün 9: Build, Quality & Release — Implementation Discipline
+# Day 9: Build, Quality & Release — Implementation Discipline
 
 **Product:** Study Buddy  
 **Sample story:** *As a student, I want to log a study session with start/end time, so that I can track how long I studied.*

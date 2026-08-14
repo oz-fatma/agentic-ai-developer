@@ -1,4 +1,4 @@
-# Gün 15: Operate, Improve & Capstone — Retrospectives and Continuous Improvement
+# Day 15: Operate, Improve & Capstone — Retrospectives and Continuous Improvement
 
 **Project:** Study Buddy MVP (Sprint 1–3 retrospective)
 

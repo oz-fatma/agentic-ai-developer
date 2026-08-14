@@ -1,4 +1,4 @@
-# Gün 12: Build, Quality & Release — Release Readiness and CI Basics
+# Day 12: Build, Quality & Release — Release Readiness and CI Basics
 
 **Product:** Study Buddy — MVP v0.1.0 release
 

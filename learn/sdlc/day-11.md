@@ -1,4 +1,4 @@
-# Gün 11: Build, Quality & Release — Testing in the Life Cycle
+# Day 11: Build, Quality & Release — Testing in the Life Cycle
 
 **Product:** Study Buddy — Story: log study session
 

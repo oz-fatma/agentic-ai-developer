@@ -1,4 +1,4 @@
-# Gün 14: Operate, Improve & Capstone — Maintenance, Monitoring, and Incidents
+# Day 14: Operate, Improve & Capstone — Maintenance, Monitoring, and Incidents
 
 **Product:** Study Buddy API (post-launch)
 

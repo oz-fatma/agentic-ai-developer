@@ -1,4 +1,4 @@
-# Gün 13: Operate, Improve & Capstone — Deployment and Environments
+# Day 13: Operate, Improve & Capstone — Deployment and Environments
 
 **Product:** Study Buddy
 

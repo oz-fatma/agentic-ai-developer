@@ -1,4 +1,4 @@
-# Gün 10: Build, Quality & Release — Code Review and Collaboration
+# Day 10: Build, Quality & Release — Code Review and Collaboration
 
 **Product:** Study Buddy
 

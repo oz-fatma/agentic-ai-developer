@@ -1,4 +1,4 @@
-# Gün 6: Requirements & Design — User Stories and Acceptance Criteria
+# Day 6: Requirements & Design — User Stories and Acceptance Criteria
 
 **Product:** Study Buddy
 

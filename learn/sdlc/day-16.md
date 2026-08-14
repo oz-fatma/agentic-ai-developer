@@ -1,4 +1,4 @@
-# Gün 16: Operate, Improve & Capstone — Full-Cycle Capstone Plan
+# Day 16: Operate, Improve & Capstone — Full-Cycle Capstone Plan
 
 **Feature:** Study Buddy — *Weekly reminder when behind on goal* (post-MVP v0.2.0)
 

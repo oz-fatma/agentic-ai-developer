@@ -1,4 +1,4 @@
-# Gün 4: SDLC Fundamentals — Practice
+# Day 4: SDLC Fundamentals — Practice
 
 ## 1. Case Study
 

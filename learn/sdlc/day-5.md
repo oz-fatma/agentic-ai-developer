@@ -1,4 +1,4 @@
-# Gün 5: Requirements & Design — Gathering and Clarifying Needs
+# Day 5: Requirements & Design — Gathering and Clarifying Needs
 
 **Sample feature:** Study Buddy — *Weekly study goal tracking*
 
@@ -32,7 +32,7 @@
 |---|---|
 | **Business** | MVP in ~6 weeks; small team (2 devs, 1 designer); free tier for students |
 | **Time** | Launch before exam season; weekly goal feature in sprint 2, not sprint 5 |
-| **Legal / privacy** | GDPR/KVKK-aware; minimal personal data; clear consent for friend sharing |
+| **Legal / privacy** | GDPR-aware; minimal personal data; clear consent for friend sharing |
 | **Technical** | Must work on mid-range Android phones; backend budget limited — prefer simple stack |
 
 ## 4. Ambiguity Hunt

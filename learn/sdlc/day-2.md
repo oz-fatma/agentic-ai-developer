@@ -1,4 +1,4 @@
-# Gün 2: SDLC Fazları Uçtan Uca
+# Day 2: SDLC Phases End to End
 
 ## 1. Phase Walkthrough — Input & Output
 
@@ -31,7 +31,7 @@ Testing is **done** when: critical test cases pass, known bugs are triaged (fixe
 | QA | Testing |
 | DevOps | Deployment, Maintenance (monitoring, incidents, releases) |
 
-## 4. Mini Timeline — Küçük Bir Özellik
+## 4. Mini Timeline — Small Feature
 
 **Feature:** Add a "dark mode" toggle to a mobile app
 
