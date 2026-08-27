@@ -1,39 +1,36 @@
 # Day 1: Go Fundamentals — Variables, Types, and Your First Program
 
-**Project:** Study Buddy — a CLI app to track study sessions and courses
-
 ## 1. Install Go
 
 Installed Go 1.22+ from [go.dev](https://go.dev) and verified the toolchain:
 
 ```bash
 go version
-# go version go1.22.5 darwin/arm64
+# go version go1.26.5 darwin/arm64
 ```
 
 The Go SDK includes the compiler, standard library, `go fmt`, `go test`, and module tools.
 
 ## 2. Initialize a Module
 
-Created the project directory and initialized a module for Study Buddy:
+Initialized a module in `learn/go`:
 
 ```bash
-mkdir -p ~/developer/study-buddy
-cd ~/developer/study-buddy
-go mod init github.com/fatmaoz/study-buddy
+cd learn/go
+go mod init github.com/oz-fatma/agentic-ai-developer/learn/go
 ```
 
 This created `go.mod`:
 
 ```
-module github.com/fatmaoz/study-buddy
+module github.com/oz-fatma/agentic-ai-developer/learn/go
 
-go 1.22
+go 1.26
 ```
 
 ## 3. Write Hello World
 
-Created `main.go` with a Study Buddy greeting:
+Created `main.go`:
 
 ```go
 package main
@@ -41,7 +38,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Welcome to Study Buddy!")
+	fmt.Println("Hello, Go!")
 }
 ```
 
@@ -49,7 +46,7 @@ Run it:
 
 ```bash
 go run .
-# Welcome to Study Buddy!
+# Hello, Go!
 ```
 
 **Program structure:**
@@ -67,28 +64,27 @@ package main
 import "fmt"
 
 func main() {
-	// Explicit type with var
-	var appName string = "Study Buddy"
-	var version float64 = 1.0
-	var isActive bool = true
-	var sessionCount int = 0
+	var count int = 0
+	var name string = "Go"
+	var score float64 = 9.5
+	var active bool = true
 
-	// Type inference with :=
-	userName := "Alex"
-	dailyGoalHours := 2.5
-	hasPremium := false
+	label := "Day 1"
+	hours := 2.5
+	done := false
 
-	fmt.Println(appName, version, isActive, sessionCount)
-	fmt.Println(userName, dailyGoalHours, hasPremium)
+	fmt.Println("Hello, Go!")
+	fmt.Println(name, count, score, active)
+	fmt.Println(label, hours, done)
 }
 ```
 
-| Type | Example | Use in Study Buddy |
+| Type | Example | Typical use |
 |---|---|---|
-| `int` | `sessionCount := 3` | Count completed sessions |
-| `float64` | `hours := 1.5` | Track study duration |
-| `string` | `subject := "Go"` | Course and topic names |
-| `bool` | `completed := true` | Session completion flag |
+| `int` | `count := 3` | Counters, indexes |
+| `float64` | `score := 9.5` | Decimals, measurements |
+| `string` | `name := "Go"` | Text |
+| `bool` | `active := true` | Flags, on/off state |
 
 **Notes:**
 - `:=` can only be used inside functions
@@ -114,4 +110,4 @@ Go enforces consistent style automatically — tabs for indentation, standard sp
 | Core types | `int`, `float64`, `string`, `bool` |
 | `go fmt` | Enforces one consistent code style |
 
-Study Buddy module is initialized and ready for control flow and functions in upcoming days.
+Module is initialized and ready for control flow in Day 2.
