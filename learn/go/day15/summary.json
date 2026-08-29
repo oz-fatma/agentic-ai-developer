@@ -1,0 +1,13 @@
+{
+  "total_words": 7,
+  "unique_words": 5,
+  "top_words": {
+    "config": 1,
+    "git": 1,
+    "go": 3,
+    "http": 1,
+    "json": 1
+  },
+  "config_app": "learn-go",
+  "config_version": 1
+}

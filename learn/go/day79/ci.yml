@@ -1,0 +1,38 @@
+name: learn-go-ci-demo
+
+on:
+  push:
+    paths:
+      - "learn/go/**"
+  pull_request:
+    paths:
+      - "learn/go/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: learn/go
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.26"
+
+      - name: Format check
+        run: test -z "$(gofmt -l .)"
+
+      - name: Vet
+        run: go vet ./...
+
+      - name: Test
+        run: go test ./day66/... ./day68/... ./day70/...
+
+      - name: Run days 61-80
+        run: |
+          for d in $(seq 61 80); do
+            echo "==> day$d"
+            go run ./day$d
+          done
